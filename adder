@@ -1,0 +1,10 @@
+// C++ adder machine
+
+int main()
+{
+  int var1 = 10;
+	int var2 = 39;
+	var3 = var1 + var2
+	
+	printf( "Answer is = %d\n", var3);
+}
